@@ -146,4 +146,6 @@ if selected =="Nutrition Details":
 
         advisor = calorie_advisor(input_prompt, food_img)  # add PIL image in LLM model
         st.info(advisor)
+
+        
     
